@@ -1,5 +1,4 @@
 #ifndef HOLBERTON_H_INCLUDED
-#DEFINE HOLBERTON_H_INCLUDED[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A
 #define HOLBERTON_H_INCLUDED
 
 int _putchar(char);
